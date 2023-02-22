@@ -4,7 +4,12 @@
 ![Bot Image](https://github.com/danangdwigustifajaryanto/Kopilaris/blob/b79cf1db31c4de55dbfee1522a63f87c38c330eb/maxresdefault%20(1).jpg)
 
 <h2>Installation</h2>
-<p>To install this application, you need to download the setup file from the repository and run it on your computer. Follow the instructions on the screen to complete the installation.</p>
+<p>To install this application, you need to download the setup file from the repository and run it on your computer. Follow the instructions on the screen to complete the installation.
+<br>
+Here are the steps to install or operate this project : <br>
+1. Kopilaris : https://www.youtube.com/watch?v=St-s2blqLqs&t=66s<br>
+1. Starbucks : https://www.youtube.com/watch?v=3kbd0LWD9XM
+</p>
 <h2>Usage</h2>
 <p>To use this application, you need to launch it from your desktop or start menu. You will see a login screen where you can enter your username and password as a cashier admin. After logging in, you will see the main screen where you can perform various tasks such as recording sales, viewing transactions, printing receipts, etc.</p>
 <h2>Screenshots</h2>
