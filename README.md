@@ -19,4 +19,4 @@
 <h2>Author</h2>
 <p>This project was created by Group 3 from Campus University.</p>
 <p>1. Danang Dwi Gusti Fajar Yanto</p>
-<p>1. Dwi Arik Setyabudi</p>
+<p>2. Dwi Arik Setyabudi</p>
